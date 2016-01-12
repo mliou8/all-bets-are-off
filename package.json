@@ -1,0 +1,29 @@
+{
+  "name": "allbetsareoff",
+  "version": "1.0.0",
+  "description": "All bets are off, you can gamble points on custom bets. More features...",
+  "main": "app.js",
+  "dependencies": {
+    "angular-ui-router": "^0.2.15",
+    "express": "^4.13.3",
+    "angular": "^1.4.8",
+    "mongoose": "^4.3.5",
+    "morgan": "^1.6.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mliou8/all-bets-are-off.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mliou8/all-bets-are-off/issues"
+  },
+  "homepage": "https://github.com/mliou8/all-bets-are-off#readme"
+}
